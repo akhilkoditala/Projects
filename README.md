@@ -1,1 +1,1 @@
-This repository consists of my projects !!
+This repository consists of my project !!
